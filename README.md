@@ -1,2 +1,1 @@
-# notebooks
-Jupyter notebooks
+# Machine Learning and Deep Learning Jupyter Notebooks
