@@ -6,20 +6,5 @@ date: May 23, 2024
 
 ## Projects
 
-### [temp](https://jimlavrenz.github.io/) 
+### [notebooks](https://jimlavrenz.github.io/notebooks) 
 
-Testing 123
-
-This is $x^2$
-
-$$
-s=x^2+x+3
-$$
-
-## Notes
-
-<ul>
-{% for item in site.notes %}
-    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{% endfor %}
-</ul>
